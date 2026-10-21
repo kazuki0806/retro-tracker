@@ -1,6 +1,22 @@
 {
   "members": [
-    { "id": "m01", "name": "市川陽太", "employerId": 7277511, "weeklyQuota": 2, "postingDays": [], "status": "active", "startedAt": "2026-10-21" },
-    { "id": "m02", "name": "田村将志", "employerId": 6985030, "weeklyQuota": 2, "postingDays": [], "status": "active", "startedAt": "2026-10-21" }
+    {
+      "id": "m01",
+      "name": "市川陽太",
+      "employerId": 7277511,
+      "weeklyQuota": 2,
+      "postingDays": [],
+      "status": "active",
+      "startedAt": "2026-10-16"
+    },
+    {
+      "id": "m02",
+      "name": "田村将志",
+      "employerId": 6985030,
+      "weeklyQuota": 2,
+      "postingDays": [],
+      "status": "active",
+      "startedAt": "2026-10-01"
+    }
   ]
 }

@@ -18,8 +18,8 @@ Retro の人を Kir の `roster.json` に入れてはいけません。入れる
 
 ## リンク
 
-公開URL: （GitHub Pages のURLをここに書く）
-リポジトリ: （GitHubのリポジトリURLをここに書く）
+公開URL: https://kazuki0806.github.io/retro-tracker/
+リポジトリ: https://github.com/kazuki0806/retro-tracker
 
 **公開ページなので、URLを知っていれば誰でも見られます。** メンバーの名前と掲載状況が表に出ます。
 見せたくなくなったら、リポジトリを非公開にしてCloudflare Pagesへ移す形に切り替えます。

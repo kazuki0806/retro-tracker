@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T06:41:05.305Z",
+  "generatedAt": "2026-10-21T06:43:25.592Z",
   "timezone": "Asia/Tokyo",
   "today": {
     "date": "2026-10-21",
@@ -30,7 +30,7 @@
       "weeklyQuota": 2,
       "status": "active",
       "banned": false,
-      "startedAt": "2026-10-21",
+      "startedAt": "2026-10-16",
       "employerIdMissing": false,
       "weeks": {
         "2026-10-18": {
@@ -49,16 +49,28 @@
           }
         },
         "2026-10-11": {
-          "postedCount": 0,
+          "postedCount": 1,
           "achieved": false,
-          "visibleCount": 0,
-          "applicantTotal": 0,
-          "jobs": [],
+          "visibleCount": 1,
+          "applicantTotal": 52,
+          "jobs": [
+            {
+              "jobId": 13539126,
+              "title": "【選考あり・3名】旅行記事の情報チェックと文章直し／週5本から・1記事1,800円",
+              "url": "https://crowdworks.jp/public/jobs/13539126",
+              "postedAt": "2026-10-16T20:24:12+09:00",
+              "postedDate": "2026-10-16",
+              "applicantCount": 52,
+              "visible": true,
+              "recruiting": true,
+              "applyDeadline": "2026-10-30"
+            }
+          ],
           "pace": {
             "status": "missed",
             "expectedByToday": 2,
             "remainingDays": 0,
-            "remainingRequired": 2,
+            "remainingRequired": 1,
             "isCurrentWeek": false,
             "postingDays": []
           }
@@ -215,7 +227,7 @@
         }
       },
       "excludedMismatched": 0,
-      "excludedBeforeStart": 1
+      "excludedBeforeStart": 0
     },
     {
       "id": "m02",
@@ -223,7 +235,7 @@
       "weeklyQuota": 2,
       "status": "active",
       "banned": false,
-      "startedAt": "2026-10-21",
+      "startedAt": "2026-10-01",
       "employerIdMissing": false,
       "weeks": {
         "2026-10-18": {
@@ -272,16 +284,28 @@
           }
         },
         "2026-09-27": {
-          "postedCount": 0,
+          "postedCount": 1,
           "achieved": false,
-          "visibleCount": 0,
-          "applicantTotal": 0,
-          "jobs": [],
+          "visibleCount": 1,
+          "applicantTotal": 32,
+          "jobs": [
+            {
+              "jobId": 13494277,
+              "title": "【未経験・スマホのみOK】SNS運用のサポート業務｜簡単なリサーチ・投稿作成補助など｜継続依頼あり",
+              "url": "https://crowdworks.jp/public/jobs/13494277",
+              "postedAt": "2026-10-01",
+              "postedDate": "2026-10-01",
+              "applicantCount": 32,
+              "visible": true,
+              "recruiting": false,
+              "applyDeadline": "2026-10-05"
+            }
+          ],
           "pace": {
             "status": "missed",
             "expectedByToday": 2,
             "remainingDays": 0,
-            "remainingRequired": 2,
+            "remainingRequired": 1,
             "isCurrentWeek": false,
             "postingDays": []
           }
@@ -408,7 +432,7 @@
         }
       },
       "excludedMismatched": 0,
-      "excludedBeforeStart": 1
+      "excludedBeforeStart": 0
     }
   ],
   "totals": {
@@ -419,22 +443,22 @@
       "applicantTotal": 0
     },
     "2026-10-11": {
-      "membersActive": 0,
+      "membersActive": 2,
       "membersAchieved": 0,
-      "postedCount": 0,
-      "applicantTotal": 0
+      "postedCount": 1,
+      "applicantTotal": 52
     },
     "2026-10-04": {
-      "membersActive": 0,
+      "membersActive": 1,
       "membersAchieved": 0,
       "postedCount": 0,
       "applicantTotal": 0
     },
     "2026-09-27": {
-      "membersActive": 0,
+      "membersActive": 1,
       "membersAchieved": 0,
-      "postedCount": 0,
-      "applicantTotal": 0
+      "postedCount": 1,
+      "applicantTotal": 32
     },
     "2026-09-20": {
       "membersActive": 0,
