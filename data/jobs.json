@@ -1,6 +1,64 @@
 {
   "version": 1,
-  "updatedAt": null,
-  "jobs": {},
-  "runs": []
+  "updatedAt": "2026-10-21T06:41:05.250Z",
+  "jobs": {
+    "13494277": {
+      "jobId": 13494277,
+      "memberId": "m02",
+      "employerId": 6985030,
+      "url": "https://crowdworks.jp/public/jobs/13494277",
+      "title": "【未経験・スマホのみOK】SNS運用のサポート業務｜簡単なリサーチ・投稿作成補助など｜継続依頼あり",
+      "category": null,
+      "postedAt": "2026-10-01",
+      "postedDatePrecision": "day",
+      "postedDateSource": "dom",
+      "employerMatches": true,
+      "firstSeenAt": "2026-10-21T06:41:05.222Z",
+      "observations": [
+        {
+          "observedAt": "2026-10-21T06:41:05.222Z",
+          "applicantCount": 32,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": false,
+          "applyDeadline": "2026-10-05"
+        }
+      ]
+    },
+    "13539126": {
+      "jobId": 13539126,
+      "memberId": "m01",
+      "employerId": 7277511,
+      "url": "https://crowdworks.jp/public/jobs/13539126",
+      "title": "【選考あり・3名】旅行記事の情報チェックと文章直し／週5本から・1記事1,800円",
+      "category": "編集・校正・リライト",
+      "postedAt": "2026-10-16T20:24:12+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-10-21T06:40:53.193Z",
+      "observations": [
+        {
+          "observedAt": "2026-10-21T06:40:53.193Z",
+          "applicantCount": 52,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-10-30"
+        }
+      ]
+    }
+  },
+  "runs": [
+    {
+      "startedAt": "2026-10-21T06:40:46.343Z",
+      "finishedAt": "2026-10-21T06:41:05.250Z",
+      "membersCrawled": 2,
+      "newJobs": 2,
+      "updatedJobs": 0,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    }
+  ]
 }
