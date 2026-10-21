@@ -1,0 +1,58 @@
+name: 毎日の巡回・集計
+
+on:
+  schedule:
+    # JST 午前7時・正午12時・午後7時（UTCでは22時・3時・10時）
+    - cron: "0 22,3,10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cw-tracker-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js 24 をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: 依存パッケージをインストール
+        run: npm ci
+
+      - name: Playwright Chromium をインストール
+        run: npx playwright install --with-deps chromium
+
+      - name: 全メンバーを巡回
+        run: node run-all.mjs
+
+      - name: 週次データを集計
+        run: node aggregate.mjs
+
+      - name: 配信用データをコピー
+        run: cp data/weekly.json docs/data/weekly.json
+
+      - name: 変更がある場合だけコミットしてプッシュ
+        env:
+          TZ: Asia/Tokyo
+        run: |
+          git add data/jobs.json data/weekly.json docs/data/weekly.json
+          if git diff --cached --quiet; then
+            echo "変更がないため、コミットしません。"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: 巡回結果を更新 ($(date +%F))"
+          git push

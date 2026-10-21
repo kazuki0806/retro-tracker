@@ -1,0 +1,53 @@
+name: アラート対象の再確認
+
+on:
+  schedule:
+    # 全員巡回が 7時・12時・19時（JST）に走るので、その間が空く夜間だけ補う。
+    # JST 午後11時・午前4時（UTCでは14時・19時）
+    - cron: "0 14,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cw-tracker-crawl
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js 24 をセットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: 依存パッケージをインストール
+        run: npm ci
+
+      - name: Playwright Chromium をインストール
+        run: npx playwright install --with-deps chromium
+
+      - name: アラート対象を再確認
+        run: npm run refresh
+
+      - name: 変更がある場合だけコミットしてプッシュ
+        env:
+          TZ: Asia/Tokyo
+        run: |
+          git add data/jobs.json data/weekly.json docs/data/weekly.json
+          if git diff --cached --quiet; then
+            echo "変更がないため、コミットしません。"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: アラート対象を再確認 ($(date '+%F %H:%M'))"
+          git push

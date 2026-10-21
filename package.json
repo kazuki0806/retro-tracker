@@ -1,0 +1,18 @@
+{
+  "name": "cw-tracker",
+  "version": "1.0.0",
+  "description": "クラウドワークスの公開案件を収集するCLI",
+  "type": "module",
+  "scripts": {
+    "start": "node crawl.mjs",
+    "crawl": "node run-all.mjs",
+    "refresh": "node refresh-alerts.mjs",
+    "aggregate": "node aggregate.mjs",
+    "test": "node test-week.mjs && node test-null-employer-id.mjs && node test-pace.mjs && node test-stale-job.mjs && node test-refresh-alerts.mjs",
+    "update": "node run-all.mjs && node aggregate.mjs && node -e \"require('node:fs').copyFileSync('data/weekly.json', 'docs/data/weekly.json')\""
+  },
+  "private": true,
+  "dependencies": {
+    "playwright": "^1.62.0"
+  }
+}

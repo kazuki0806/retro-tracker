@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Playwright のキャッシュ・テスト成果物
+.playwright/
+playwright-report/
+test-results/
+blob-report/
+
+# OS が作る不要ファイル
+.DS_Store
+Thumbs.db
+
+# 一時ファイル
+*.tmp-*
+
+# data/jobs.json と data/weekly.json は掲載履歴の証跡なので除外しない
+!data/jobs.json
+!data/weekly.json
