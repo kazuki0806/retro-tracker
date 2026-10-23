@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-22T14:45:20.217Z",
+  "generatedAt": "2026-10-23T00:14:41.988Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-10-22",
-    "dayOfWeek": "木",
-    "dayNumber": 5,
-    "remainingDays": 3
+    "date": "2026-10-23",
+    "dayOfWeek": "金",
+    "dayNumber": 6,
+    "remainingDays": 2
   },
   "currentWeek": "2026-10-18",
   "weeks": [
@@ -42,7 +42,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -52,7 +52,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 63,
+          "applicantTotal": 65,
           "jobs": [
             {
               "jobId": 13539126,
@@ -60,7 +60,7 @@
               "url": "https://crowdworks.jp/public/jobs/13539126",
               "postedAt": "2026-10-16T20:24:12+09:00",
               "postedDate": "2026-10-16",
-              "applicantCount": 63,
+              "applicantCount": 65,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-10-30"
@@ -247,7 +247,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -446,7 +446,7 @@
       "membersActive": 2,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 63
+      "applicantTotal": 65
     },
     "2026-10-04": {
       "membersActive": 1,
