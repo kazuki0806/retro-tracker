@@ -69,5 +69,6 @@ cd ~/claude\ code/Retro/cw-tracker && npm run update
 
 - 市川陽太（employerId 7277511、CWのアカウント名は crea-tive）
 - 田村将志（employerId 6985030）
+- 鈴鹿大典（employerId 7078694）
 
-2人とも、CWのログイン情報（アカウント名・メールアドレス・パスワード）は未登録です。
+3人とも、CWのログイン情報（アカウント名・メールアドレス・パスワード）は未登録です。

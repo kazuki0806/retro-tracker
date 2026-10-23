@@ -17,6 +17,15 @@
       "postingDays": [],
       "status": "active",
       "startedAt": "2026-10-01"
+    },
+    {
+      "id": "m03",
+      "name": "鈴鹿大典",
+      "employerId": 7078694,
+      "weeklyQuota": 2,
+      "postingDays": [],
+      "status": "active",
+      "startedAt": "2026-10-23"
     }
   ]
 }
