@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T00:14:41.938Z",
+  "updatedAt": "2026-10-23T01:55:43.108Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -87,6 +87,29 @@
           "applyDeadline": "2026-10-30"
         }
       ]
+    },
+    "13554399": {
+      "jobId": 13554399,
+      "memberId": "m03",
+      "employerId": 7078694,
+      "url": "https://crowdworks.jp/public/jobs/13554399",
+      "title": "【選考あり・3名】生活情報記事の情報チェックと文章直し／週5本から・1記事1,800円",
+      "category": "編集・校正・リライト",
+      "postedAt": "2026-10-23T08:42:12+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-10-23T01:55:43.092Z",
+      "observations": [
+        {
+          "observedAt": "2026-10-23T01:55:43.092Z",
+          "applicantCount": 20,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-06"
+        }
+      ]
     }
   },
   "runs": [
@@ -146,6 +169,16 @@
       "membersCrawled": 2,
       "newJobs": 0,
       "updatedJobs": 1,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-10-23T01:55:37.156Z",
+      "finishedAt": "2026-10-23T01:55:43.108Z",
+      "membersCrawled": 1,
+      "newJobs": 1,
+      "updatedJobs": 0,
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
       "errors": []
