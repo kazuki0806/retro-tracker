@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T08:28:14.450Z",
+  "generatedAt": "2026-10-27T15:45:58.594Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-10-27",
-    "dayOfWeek": "火",
-    "dayNumber": 3,
-    "remainingDays": 5
+    "date": "2026-10-28",
+    "dayOfWeek": "水",
+    "dayNumber": 4,
+    "remainingDays": 4
   },
   "currentWeek": "2026-10-25",
   "weeks": [
@@ -41,8 +41,8 @@
           "jobs": [],
           "pace": {
             "status": "behind",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -246,8 +246,8 @@
           "jobs": [],
           "pace": {
             "status": "behind",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -451,8 +451,8 @@
           "jobs": [],
           "pace": {
             "status": "behind",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
