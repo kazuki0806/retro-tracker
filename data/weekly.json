@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T15:45:58.594Z",
+  "generatedAt": "2026-10-28T00:49:43.669Z",
   "timezone": "Asia/Tokyo",
   "today": {
     "date": "2026-10-28",
@@ -67,7 +67,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 86,
+          "applicantTotal": 87,
           "jobs": [
             {
               "jobId": 13539126,
@@ -75,7 +75,7 @@
               "url": "https://crowdworks.jp/public/jobs/13539126",
               "postedAt": "2026-10-16T20:24:12+09:00",
               "postedDate": "2026-10-16",
-              "applicantCount": 86,
+              "applicantCount": 87,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-10-30"
@@ -462,7 +462,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 100,
+          "applicantTotal": 103,
           "jobs": [
             {
               "jobId": 13554399,
@@ -470,7 +470,7 @@
               "url": "https://crowdworks.jp/public/jobs/13554399",
               "postedAt": "2026-10-23T08:42:12+09:00",
               "postedDate": "2026-10-23",
-              "applicantCount": 100,
+              "applicantCount": 103,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-06"
@@ -651,13 +651,13 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 100
+      "applicantTotal": 103
     },
     "2026-10-11": {
       "membersActive": 2,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 86
+      "applicantTotal": 87
     },
     "2026-10-04": {
       "membersActive": 1,
