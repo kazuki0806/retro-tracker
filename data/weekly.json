@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T09:06:05.019Z",
+  "generatedAt": "2026-10-28T16:20:38.448Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-10-28",
-    "dayOfWeek": "水",
-    "dayNumber": 4,
-    "remainingDays": 4
+    "date": "2026-10-29",
+    "dayOfWeek": "木",
+    "dayNumber": 5,
+    "remainingDays": 3
   },
   "currentWeek": "2026-10-25",
   "weeks": [
@@ -42,7 +42,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 4,
+            "remainingDays": 3,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -247,7 +247,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 4,
+            "remainingDays": 3,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -452,7 +452,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 4,
+            "remainingDays": 3,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -462,7 +462,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 107,
+          "applicantTotal": 109,
           "jobs": [
             {
               "jobId": 13554399,
@@ -470,7 +470,7 @@
               "url": "https://crowdworks.jp/public/jobs/13554399",
               "postedAt": "2026-10-23T08:42:12+09:00",
               "postedDate": "2026-10-23",
-              "applicantCount": 107,
+              "applicantCount": 109,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-06"
@@ -651,7 +651,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 107
+      "applicantTotal": 109
     },
     "2026-10-11": {
       "membersActive": 2,
