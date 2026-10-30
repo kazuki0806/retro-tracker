@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T16:30:38.108Z",
+  "updatedAt": "2026-10-30T01:26:05.021Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -708,6 +708,35 @@
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
       "errors": []
+    },
+    {
+      "startedAt": "2026-10-30T01:25:18.884Z",
+      "finishedAt": "2026-10-30T01:26:05.021Z",
+      "membersCrawled": 0,
+      "newJobs": 0,
+      "updatedJobs": 0,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": [
+        {
+          "memberId": "m01",
+          "employerId": 7277511,
+          "reason": "list_fetch_failed",
+          "message": "募集実績一覧の取得に失敗しました: HTTP 403: https://crowdworks.jp/public/employers/7277511/job_offers"
+        },
+        {
+          "memberId": "m02",
+          "employerId": 6985030,
+          "reason": "list_fetch_failed",
+          "message": "募集実績一覧の取得に失敗しました: HTTP 403: https://crowdworks.jp/public/employers/6985030/job_offers"
+        },
+        {
+          "memberId": "m03",
+          "employerId": 7078694,
+          "reason": "list_fetch_failed",
+          "message": "募集実績一覧の取得に失敗しました: HTTP 403: https://crowdworks.jp/public/employers/7078694/job_offers"
+        }
+      ]
     }
   ]
 }
