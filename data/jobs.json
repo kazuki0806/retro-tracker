@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T01:26:05.021Z",
+  "updatedAt": "2026-10-30T09:13:12.848Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -229,6 +229,14 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-10-30"
+        },
+        {
+          "observedAt": "2026-10-30T09:12:54.496Z",
+          "applicantCount": 97,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-10-30"
         }
       ]
     },
@@ -392,6 +400,14 @@
         {
           "observedAt": "2026-10-29T16:30:38.077Z",
           "applicantCount": 115,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-06"
+        },
+        {
+          "observedAt": "2026-10-30T09:13:12.825Z",
+          "applicantCount": 118,
           "contractCount": 0,
           "visible": true,
           "recruiting": true,
@@ -737,6 +753,16 @@
           "message": "募集実績一覧の取得に失敗しました: HTTP 403: https://crowdworks.jp/public/employers/7078694/job_offers"
         }
       ]
+    },
+    {
+      "startedAt": "2026-10-30T09:12:47.257Z",
+      "finishedAt": "2026-10-30T09:13:12.848Z",
+      "membersCrawled": 3,
+      "newJobs": 0,
+      "updatedJobs": 2,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
     }
   ]
 }
