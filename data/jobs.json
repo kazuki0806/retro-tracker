@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T10:06:09.729Z",
+  "updatedAt": "2026-11-05T01:53:15.291Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -262,14 +262,6 @@
           "applyDeadline": "2026-11-06"
         },
         {
-          "observedAt": "2026-10-24T07:42:30.767Z",
-          "applicantCount": 62,
-          "contractCount": 0,
-          "visible": true,
-          "recruiting": true,
-          "applyDeadline": "2026-11-06"
-        },
-        {
           "observedAt": "2026-10-24T13:43:05.220Z",
           "applicantCount": 69,
           "contractCount": 0,
@@ -488,6 +480,14 @@
         {
           "observedAt": "2026-11-04T10:06:09.703Z",
           "applicantCount": 142,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-06"
+        },
+        {
+          "observedAt": "2026-11-05T01:53:15.266Z",
+          "applicantCount": 143,
           "contractCount": 0,
           "visible": true,
           "recruiting": true,
@@ -967,6 +967,16 @@
     {
       "startedAt": "2026-11-04T10:05:46.995Z",
       "finishedAt": "2026-11-04T10:06:09.729Z",
+      "membersCrawled": 3,
+      "newJobs": 0,
+      "updatedJobs": 1,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-05T01:52:54.858Z",
+      "finishedAt": "2026-11-05T01:53:15.291Z",
       "membersCrawled": 3,
       "newJobs": 0,
       "updatedJobs": 1,
