@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T10:00:11.013Z",
+  "generatedAt": "2026-11-05T17:53:35.898Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-11-05",
-    "dayOfWeek": "木",
-    "dayNumber": 5,
-    "remainingDays": 3
+    "date": "2026-11-06",
+    "dayOfWeek": "金",
+    "dayNumber": 6,
+    "remainingDays": 2
   },
   "currentWeek": "2026-11-01",
   "weeks": [
@@ -42,7 +42,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -247,7 +247,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -452,7 +452,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
