@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T01:24:34.292Z",
+  "updatedAt": "2026-11-07T09:23:38.969Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -1046,6 +1046,16 @@
     {
       "startedAt": "2026-11-07T01:24:16.868Z",
       "finishedAt": "2026-11-07T01:24:34.292Z",
+      "membersCrawled": 3,
+      "newJobs": 0,
+      "updatedJobs": 0,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-07T09:23:17.528Z",
+      "finishedAt": "2026-11-07T09:23:38.969Z",
       "membersCrawled": 3,
       "newJobs": 0,
       "updatedJobs": 0,
