@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T16:27:08.583Z",
+  "updatedAt": "2026-11-09T01:17:58.319Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -1121,6 +1121,16 @@
           "message": "募集実績一覧の取得に失敗しました: HTTP 403: https://crowdworks.jp/public/employers/7078694/job_offers"
         }
       ]
+    },
+    {
+      "startedAt": "2026-11-09T01:17:42.395Z",
+      "finishedAt": "2026-11-09T01:17:58.319Z",
+      "membersCrawled": 3,
+      "newJobs": 0,
+      "updatedJobs": 0,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
     }
   ]
 }
