@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T17:22:23.181Z",
+  "updatedAt": "2026-11-11T01:34:28.302Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -492,6 +492,29 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-11-06"
+        }
+      ]
+    },
+    "13595264": {
+      "jobId": 13595264,
+      "memberId": "m01",
+      "employerId": 7277511,
+      "url": "https://crowdworks.jp/public/jobs/13595264",
+      "title": "【未経験OK・1本1,000円（税抜）〜】リール動画の編集をしていただける方を募集します",
+      "category": "TikTok・ショート動画",
+      "postedAt": "2026-11-10T19:43:02+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-11-11T01:34:14.253Z",
+      "observations": [
+        {
+          "observedAt": "2026-11-11T01:34:14.253Z",
+          "applicantCount": 3,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-24"
         }
       ]
     }
@@ -1176,6 +1199,16 @@
       "finishedAt": "2026-11-10T17:22:23.181Z",
       "membersCrawled": 3,
       "newJobs": 0,
+      "updatedJobs": 0,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-11T01:34:07.354Z",
+      "finishedAt": "2026-11-11T01:34:28.302Z",
+      "membersCrawled": 3,
+      "newJobs": 1,
       "updatedJobs": 0,
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
