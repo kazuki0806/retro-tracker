@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T02:14:48.603Z",
+  "generatedAt": "2026-11-13T10:15:34.749Z",
   "timezone": "Asia/Tokyo",
   "today": {
     "date": "2026-11-13",
@@ -37,7 +37,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 17,
+          "applicantTotal": 18,
           "jobs": [
             {
               "jobId": 13595264,
@@ -45,7 +45,7 @@
               "url": "https://crowdworks.jp/public/jobs/13595264",
               "postedAt": "2026-11-10T19:43:02+09:00",
               "postedDate": "2026-11-10",
-              "applicantCount": 17,
+              "applicantCount": 18,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-24"
@@ -251,16 +251,28 @@
       "employerIdMissing": false,
       "weeks": {
         "2026-11-08": {
-          "postedCount": 0,
+          "postedCount": 1,
           "achieved": false,
-          "visibleCount": 0,
-          "applicantTotal": 0,
-          "jobs": [],
+          "visibleCount": 1,
+          "applicantTotal": 12,
+          "jobs": [
+            {
+              "jobId": 13601210,
+              "title": "【未経験・スマホのみOK】SNS運用のサポート業務｜簡単なリサーチ・投稿作成補助など｜継続依頼あり",
+              "url": "https://crowdworks.jp/public/jobs/13601210",
+              "postedAt": "2026-11-13T15:17:46+09:00",
+              "postedDate": "2026-11-13",
+              "applicantCount": 12,
+              "visible": true,
+              "recruiting": true,
+              "applyDeadline": "2026-11-27"
+            }
+          ],
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
             "remainingDays": 2,
-            "remainingRequired": 2,
+            "remainingRequired": 1,
             "isCurrentWeek": true,
             "postingDays": []
           }
@@ -656,8 +668,8 @@
     "2026-11-08": {
       "membersActive": 3,
       "membersAchieved": 0,
-      "postedCount": 1,
-      "applicantTotal": 17
+      "postedCount": 2,
+      "applicantTotal": 30
     },
     "2026-11-01": {
       "membersActive": 3,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T02:14:48.535Z",
+  "updatedAt": "2026-11-13T10:15:34.707Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -555,6 +555,37 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-11-24"
+        },
+        {
+          "observedAt": "2026-11-13T10:15:18.731Z",
+          "applicantCount": 18,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-24"
+        }
+      ]
+    },
+    "13601210": {
+      "jobId": 13601210,
+      "memberId": "m02",
+      "employerId": 6985030,
+      "url": "https://crowdworks.jp/public/jobs/13601210",
+      "title": "【未経験・スマホのみOK】SNS運用のサポート業務｜簡単なリサーチ・投稿作成補助など｜継続依頼あり",
+      "category": "Instagram・Twitter・Facebook集客",
+      "postedAt": "2026-11-13T15:17:46+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-11-13T10:15:28.231Z",
+      "observations": [
+        {
+          "observedAt": "2026-11-13T10:15:28.231Z",
+          "applicantCount": 12,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-27"
         }
       ]
     }
@@ -1299,6 +1330,16 @@
       "finishedAt": "2026-11-13T02:14:48.535Z",
       "membersCrawled": 3,
       "newJobs": 0,
+      "updatedJobs": 1,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-13T10:15:06.869Z",
+      "finishedAt": "2026-11-13T10:15:34.707Z",
+      "membersCrawled": 3,
+      "newJobs": 1,
       "updatedJobs": 1,
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
