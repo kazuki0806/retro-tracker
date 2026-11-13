@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-12T10:27:02.821Z",
+  "generatedAt": "2026-11-13T02:14:48.603Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-11-12",
-    "dayOfWeek": "木",
-    "dayNumber": 5,
-    "remainingDays": 3
+    "date": "2026-11-13",
+    "dayOfWeek": "金",
+    "dayNumber": 6,
+    "remainingDays": 2
   },
   "currentWeek": "2026-11-08",
   "weeks": [
@@ -37,7 +37,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 15,
+          "applicantTotal": 17,
           "jobs": [
             {
               "jobId": 13595264,
@@ -45,7 +45,7 @@
               "url": "https://crowdworks.jp/public/jobs/13595264",
               "postedAt": "2026-11-10T19:43:02+09:00",
               "postedDate": "2026-11-10",
-              "applicantCount": 15,
+              "applicantCount": 17,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-24"
@@ -54,7 +54,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 1,
             "isCurrentWeek": true,
             "postingDays": []
@@ -259,7 +259,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -464,7 +464,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 3,
+            "remainingDays": 2,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -657,7 +657,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 15
+      "applicantTotal": 17
     },
     "2026-11-01": {
       "membersActive": 3,
