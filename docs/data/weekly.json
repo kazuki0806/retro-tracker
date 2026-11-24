@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T05:46:26.975Z",
+  "generatedAt": "2026-11-24T20:26:21.274Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-11-24",
-    "dayOfWeek": "火",
-    "dayNumber": 3,
-    "remainingDays": 5
+    "date": "2026-11-25",
+    "dayOfWeek": "水",
+    "dayNumber": 4,
+    "remainingDays": 4
   },
   "currentWeek": "2026-11-22",
   "weeks": [
@@ -37,7 +37,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 5,
+          "applicantTotal": 6,
           "jobs": [
             {
               "jobId": 13619245,
@@ -45,16 +45,16 @@
               "url": "https://crowdworks.jp/public/jobs/13619245",
               "postedAt": "2026-11-23T20:38:50+09:00",
               "postedDate": "2026-11-23",
-              "applicantCount": 5,
+              "applicantCount": 6,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-12-07"
             }
           ],
           "pace": {
-            "status": "onTrack",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "status": "behind",
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 1,
             "isCurrentWeek": true,
             "postingDays": []
@@ -270,8 +270,8 @@
           "jobs": [],
           "pace": {
             "status": "behind",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -296,7 +296,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 48,
+          "applicantTotal": 49,
           "jobs": [
             {
               "jobId": 13601210,
@@ -304,7 +304,7 @@
               "url": "https://crowdworks.jp/public/jobs/13601210",
               "postedAt": "2026-11-13T15:17:46+09:00",
               "postedDate": "2026-11-13",
-              "applicantCount": 48,
+              "applicantCount": 49,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-27"
@@ -487,8 +487,8 @@
           "jobs": [],
           "pace": {
             "status": "behind",
-            "expectedByToday": 1,
-            "remainingDays": 5,
+            "expectedByToday": 2,
+            "remainingDays": 4,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -681,7 +681,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 5
+      "applicantTotal": 6
     },
     "2026-11-15": {
       "membersActive": 3,
@@ -693,7 +693,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 2,
-      "applicantTotal": 71
+      "applicantTotal": 72
     },
     "2026-11-01": {
       "membersActive": 3,
