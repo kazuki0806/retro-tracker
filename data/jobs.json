@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T20:26:21.230Z",
+  "updatedAt": "2026-11-24T23:20:45.636Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -977,6 +977,14 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-12-07"
+        },
+        {
+          "observedAt": "2026-11-24T23:20:12.991Z",
+          "applicantCount": null,
+          "contractCount": null,
+          "visible": false,
+          "recruiting": null,
+          "applyDeadline": null
         }
       ]
     }
