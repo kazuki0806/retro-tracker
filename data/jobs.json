@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T11:27:53.601Z",
+  "updatedAt": "2026-11-24T05:46:26.933Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -731,6 +731,14 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-11-24"
+        },
+        {
+          "observedAt": "2026-11-24T05:46:08.819Z",
+          "applicantCount": 23,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-24"
         }
       ]
     },
@@ -922,6 +930,37 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-11-27"
+        },
+        {
+          "observedAt": "2026-11-24T05:46:19.411Z",
+          "applicantCount": 48,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-11-27"
+        }
+      ]
+    },
+    "13619245": {
+      "jobId": 13619245,
+      "memberId": "m01",
+      "employerId": 7277511,
+      "url": "https://crowdworks.jp/public/jobs/13619245",
+      "title": "【初心者歓迎】Instagramリール動画の編集スタッフ募集｜継続案件あり",
+      "category": "TikTok・ショート動画",
+      "postedAt": "2026-11-23T20:38:50+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-11-24T05:46:08.819Z",
+      "observations": [
+        {
+          "observedAt": "2026-11-24T05:46:08.819Z",
+          "applicantCount": 5,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-12-07"
         }
       ]
     }
@@ -1886,6 +1925,16 @@
       "finishedAt": "2026-11-23T11:27:53.601Z",
       "membersCrawled": 3,
       "newJobs": 0,
+      "updatedJobs": 2,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-24T05:45:57.745Z",
+      "finishedAt": "2026-11-24T05:46:26.933Z",
+      "membersCrawled": 3,
+      "newJobs": 1,
       "updatedJobs": 2,
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
