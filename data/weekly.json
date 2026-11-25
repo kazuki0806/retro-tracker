@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T23:20:45.636Z",
+  "generatedAt": "2026-11-25T04:39:55.780Z",
   "timezone": "Asia/Tokyo",
   "today": {
     "date": "2026-11-25",
@@ -36,8 +36,8 @@
         "2026-11-22": {
           "postedCount": 1,
           "achieved": false,
-          "visibleCount": 0,
-          "applicantTotal": 0,
+          "visibleCount": 1,
+          "applicantTotal": 6,
           "jobs": [
             {
               "jobId": 13619245,
@@ -45,10 +45,10 @@
               "url": "https://crowdworks.jp/public/jobs/13619245",
               "postedAt": "2026-11-23T20:38:50+09:00",
               "postedDate": "2026-11-23",
-              "applicantCount": null,
-              "visible": false,
-              "recruiting": null,
-              "applyDeadline": null
+              "applicantCount": 6,
+              "visible": true,
+              "recruiting": true,
+              "applyDeadline": "2026-12-07"
             }
           ],
           "pace": {
@@ -296,7 +296,7 @@
           "postedCount": 1,
           "achieved": false,
           "visibleCount": 1,
-          "applicantTotal": 49,
+          "applicantTotal": 50,
           "jobs": [
             {
               "jobId": 13601210,
@@ -304,7 +304,7 @@
               "url": "https://crowdworks.jp/public/jobs/13601210",
               "postedAt": "2026-11-13T15:17:46+09:00",
               "postedDate": "2026-11-13",
-              "applicantCount": 49,
+              "applicantCount": 50,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-11-27"
@@ -681,7 +681,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 1,
-      "applicantTotal": 0
+      "applicantTotal": 6
     },
     "2026-11-15": {
       "membersActive": 3,
@@ -693,7 +693,7 @@
       "membersActive": 3,
       "membersAchieved": 0,
       "postedCount": 2,
-      "applicantTotal": 72
+      "applicantTotal": 73
     },
     "2026-11-01": {
       "membersActive": 3,
