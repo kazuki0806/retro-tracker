@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T03:52:05.150Z",
+  "updatedAt": "2026-11-27T19:14:22.179Z",
   "jobs": {
     "13494277": {
       "jobId": 13494277,
@@ -1081,21 +1081,42 @@
           "visible": true,
           "recruiting": true,
           "applyDeadline": "2026-12-07"
+        },
+        {
+          "observedAt": "2026-11-27T19:14:07.869Z",
+          "applicantCount": 10,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-12-07"
+        }
+      ]
+    },
+    "13627851": {
+      "jobId": 13627851,
+      "memberId": "m01",
+      "employerId": 7277511,
+      "url": "https://crowdworks.jp/public/jobs/13627851",
+      "title": "【在宅・継続案件】グルメ記事の情報チェック・文章修正スタッフ募集｜2名",
+      "category": "編集・校正・リライト",
+      "postedAt": "2026-11-27T15:30:12+09:00",
+      "postedDatePrecision": "second",
+      "postedDateSource": "jsonld",
+      "employerMatches": true,
+      "firstSeenAt": "2026-11-27T19:14:07.869Z",
+      "observations": [
+        {
+          "observedAt": "2026-11-27T19:14:07.869Z",
+          "applicantCount": 14,
+          "contractCount": 0,
+          "visible": true,
+          "recruiting": true,
+          "applyDeadline": "2026-12-11"
         }
       ]
     }
   },
   "runs": [
-    {
-      "startedAt": "2026-10-22T00:18:01.259Z",
-      "finishedAt": "2026-10-22T00:18:16.737Z",
-      "membersCrawled": 2,
-      "newJobs": 0,
-      "updatedJobs": 1,
-      "mismatchedJobs": 0,
-      "skippedNoEmployerId": 0,
-      "errors": []
-    },
     {
       "startedAt": "2026-10-22T08:03:46.905Z",
       "finishedAt": "2026-10-22T08:04:01.665Z",
@@ -2096,6 +2117,16 @@
       "membersCrawled": 3,
       "newJobs": 0,
       "updatedJobs": 2,
+      "mismatchedJobs": 0,
+      "skippedNoEmployerId": 0,
+      "errors": []
+    },
+    {
+      "startedAt": "2026-11-27T19:13:58.130Z",
+      "finishedAt": "2026-11-27T19:14:22.179Z",
+      "membersCrawled": 3,
+      "newJobs": 1,
+      "updatedJobs": 1,
       "mismatchedJobs": 0,
       "skippedNoEmployerId": 0,
       "errors": []

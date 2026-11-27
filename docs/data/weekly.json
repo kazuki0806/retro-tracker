@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-27T03:52:05.469Z",
+  "generatedAt": "2026-11-27T19:14:22.232Z",
   "timezone": "Asia/Tokyo",
   "today": {
-    "date": "2026-11-27",
-    "dayOfWeek": "金",
-    "dayNumber": 6,
-    "remainingDays": 2
+    "date": "2026-11-28",
+    "dayOfWeek": "土",
+    "dayNumber": 7,
+    "remainingDays": 1
   },
   "currentWeek": "2026-11-22",
   "weeks": [
@@ -34,28 +34,39 @@
       "employerIdMissing": false,
       "weeks": {
         "2026-11-22": {
-          "postedCount": 1,
-          "achieved": false,
-          "visibleCount": 1,
-          "applicantTotal": 9,
+          "postedCount": 2,
+          "achieved": true,
+          "visibleCount": 2,
+          "applicantTotal": 24,
           "jobs": [
+            {
+              "jobId": 13627851,
+              "title": "【在宅・継続案件】グルメ記事の情報チェック・文章修正スタッフ募集｜2名",
+              "url": "https://crowdworks.jp/public/jobs/13627851",
+              "postedAt": "2026-11-27T15:30:12+09:00",
+              "postedDate": "2026-11-27",
+              "applicantCount": 14,
+              "visible": true,
+              "recruiting": true,
+              "applyDeadline": "2026-12-11"
+            },
             {
               "jobId": 13619245,
               "title": "【初心者歓迎】Instagramリール動画の編集スタッフ募集｜継続案件あり",
               "url": "https://crowdworks.jp/public/jobs/13619245",
               "postedAt": "2026-11-23T20:38:50+09:00",
               "postedDate": "2026-11-23",
-              "applicantCount": 9,
+              "applicantCount": 10,
               "visible": true,
               "recruiting": true,
               "applyDeadline": "2026-12-07"
             }
           ],
           "pace": {
-            "status": "behind",
+            "status": "achieved",
             "expectedByToday": 2,
-            "remainingDays": 2,
-            "remainingRequired": 1,
+            "remainingDays": 1,
+            "remainingRequired": 0,
             "isCurrentWeek": true,
             "postingDays": []
           }
@@ -271,7 +282,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 2,
+            "remainingDays": 1,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -488,7 +499,7 @@
           "pace": {
             "status": "behind",
             "expectedByToday": 2,
-            "remainingDays": 2,
+            "remainingDays": 1,
             "remainingRequired": 2,
             "isCurrentWeek": true,
             "postingDays": []
@@ -679,9 +690,9 @@
   "totals": {
     "2026-11-22": {
       "membersActive": 3,
-      "membersAchieved": 0,
-      "postedCount": 1,
-      "applicantTotal": 9
+      "membersAchieved": 1,
+      "postedCount": 2,
+      "applicantTotal": 24
     },
     "2026-11-15": {
       "membersActive": 3,
